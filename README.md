@@ -1,6 +1,6 @@
 # Audio2Chat
 
-Audio2Chat converts multi-speaker audio files into chat format using AssemblyAI for speaker diarization and optionally Whisper for enhanced transcription.
+Audio2Chat converts multi-speaker audio files into chat format using [AssemblyAI](https://www.assemblyai.com/app) for speaker diarization and optionally Whisper for enhanced transcription.
 
 ### Features
 - Speaker diarization and transcription using AssemblyAI
@@ -37,6 +37,8 @@ brew install ffmpeg
 # Windows (using Chocolatey)
 choco install ffmpeg
 ```
+
+You need to have an Assembly AI account and an API key to use audio2chat. Once you setup an account, you can find the API key on your [dashboard](https://www.assemblyai.com/app).
 
 ## Usage
 
