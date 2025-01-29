@@ -16,7 +16,7 @@ Audio2Chat converts multi-speaker audio files into chat format using [AssemblyAI
 pip install audio2chat
 
 # Or install from source
-git clone https://github.com/yourusername/audio2chat.git
+git clone https://github.com/neuralwork/audio2chat.git
 cd audio2chat
 pip install -e .
 ```
